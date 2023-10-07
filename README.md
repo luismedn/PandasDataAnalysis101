@@ -3,7 +3,7 @@ This repository contains Jupyter Notebooks and Python scripts that provide a beg
 
 Pandas is a powerful and widely used data manipulation and analysis library in Python. It offers a range of functions and methods that make it an essential tool for data scientists, analysts, and researchers. When dealing with real-world data problems, Pandas can help address various challenges and extract valuable insights. Here's how some of the most common Pandas commands come into play:
 
-Data Loading and Inspection:
+## Data Loading and Inspection:
 
 Importing Data: Pandas allows you to load data from various sources such as CSV files, Excel spreadsheets, databases, and web APIs. You can quickly import data into data frames for analysis.
 Data Inspection: You can use commands like head(), info(), and describe() to get a quick overview of the data, including its structure, data types, and basic statistics. This helps in understanding the data's characteristics and identifying potential issues.
